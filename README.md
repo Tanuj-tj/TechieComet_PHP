@@ -19,3 +19,7 @@ Link : https://techiecomet.000webhostapp.com/
 **Sign In**
 
 ![localhost_Blog-Website_login php](https://user-images.githubusercontent.com/63875409/142772486-9785724f-426b-4bb9-8760-0d519c3436de.png)
+
+**Comments**
+
+![image](https://user-images.githubusercontent.com/63875409/142772716-70a4ca69-8bc3-4864-951a-e7d1ce0dd155.png)
