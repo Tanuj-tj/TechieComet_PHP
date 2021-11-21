@@ -23,3 +23,12 @@ Link : https://techiecomet.000webhostapp.com/
 **Comments**
 
 ![image](https://user-images.githubusercontent.com/63875409/142772716-70a4ca69-8bc3-4864-951a-e7d1ce0dd155.png)
+
+----
+
+### Database Tables
+
+* User
+* Post
+* Comments
+* ProfileInfo
